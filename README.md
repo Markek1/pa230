@@ -1,4 +1,4 @@
-# PA230 — Reinforcement Learning Agents (Tournament)
+# PA230 — Reinforcement Learning Agents
 
 Coursework repository for the PA230 tournament. It contains my implementations of deep RL agents in Python + PyTorch, evaluated in Gymnasium environments:
 
